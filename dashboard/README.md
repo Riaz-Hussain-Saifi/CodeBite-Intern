@@ -1,7 +1,7 @@
-# 💼 CodeBite Internship – Frontend Developer Project
+# 💼 CodeBite Dashboard – Dashboard Template
 
 ## 📌 Overview
-This repository documents my internship project at **CodeBite**, where I worked as a **Frontend Developer**. The objective was to build responsive, accessible, and visually engaging user interfaces using modern technologies and best practices.
+This repository documents my Dashboard template project of **CodeBite**, where I worked as a **Frontend Developer**. The objective was to build responsive, accessible, and visually engaging user interfaces using modern technologies and best practices.
 
 ## 🚀 Tech Stack
 - **HTML5** – Semantic page structure
@@ -40,7 +40,7 @@ To run this project locally:
 2. **Navigate to the project folder**:
 
    ```bash
-   cd CodeBite-Intern
+   cd dashboard
    ```
 
 3. **Install the dependencies**:
